@@ -361,7 +361,7 @@ main.centered-card h2 {
 /* Carousel caption */
 .carousel-caption { 
   background: none;
-  padding: 0;
+  padding: 1em;
 }
 
 .carousel-caption h5 {
