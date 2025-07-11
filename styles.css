@@ -362,9 +362,6 @@ main.centered-card h2 {
 .carousel-caption { 
   padding: 1em;
   top: 50%
-  transform: translateY(-40%);
-  text-align: center;
-  z-index: 2;
   background: none;
 }
 
