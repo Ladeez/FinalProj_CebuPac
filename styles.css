@@ -374,11 +374,12 @@ main.centered-card h2 {
 }
 
 .carousel-caption h5 {
-  font-size: 4vw; 
+  font-size: 5vw;
+  font-weight: bold;
+  letter-spacing: 8px;
+  text-transform: uppercase;
   color: #fff;
-  margin: 0;
 }
-
 
 .footer {
    display: flex;
