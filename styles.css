@@ -363,6 +363,7 @@ main.centered-card h2 {
   padding: 1em;
   top: 50%
   background: none;
+  transform: translateY(40%);
 }
 
 .carousel-caption h5 {
