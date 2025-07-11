@@ -360,7 +360,8 @@ main.centered-card h2 {
 
 /* Carousel caption */
 .carousel-caption { 
-  padding: 1em;
+  background: none;
+  padding: 0;
   border-radius: 10px;
 }
 
